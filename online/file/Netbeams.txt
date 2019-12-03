@@ -1,0 +1,2 @@
+The program is First Written in the netbeans and the location of file is given is the hear.  
+ Nowthe file is in append mode so is continues the following data .The program is First Written in the netbeans and the location of file is given is the hear.  
