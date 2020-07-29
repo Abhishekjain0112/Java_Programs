@@ -5,6 +5,8 @@
  */
 package HakerRank;
 
+import java.util.Collection;
+import java.util.Collections;
 import java.util.HashMap;
 
 /**
@@ -39,7 +41,7 @@ public class HashMaps {
        System.out.println(" total p : "+hm.get('P'));
        System.out.println(" total N : "+hm.get('N'));
        System.out.println(" total Z : "+hm.get('Z'));
-       
+ 
         
     }
     
